@@ -21,25 +21,6 @@ Currently, I'm a Staff Scientist at the Kolachalama Lab at Boston University �
 When I'm not diving deep into AI research, you'll find me:
 🎹 Tickling the ivories | 🎨 Creating art with brushstrokes | 🧩 Speed-cubing (solving Rubik's cubes fast!) | 💪 Powerlifting heavy weights | 🎾 Serving aces on the tennis court | 🏃‍♂️ Sprinting like the wind | 🎮 Clutching rounds in Counter-Strike
 
----
-
-## 📊 **GitHub Analytics & Activity**
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ketansuhaas&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketansuhaas&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ketansuhaas&theme=default&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ketansuhaas&theme=minimal)
-
-</div>
-
----
 ## 🌐 **Let's Connect!**
 <div align="center">
 
@@ -50,4 +31,16 @@ When I'm not diving deep into AI research, you'll find me:
 
 </div>
 
----
+
+## 📊 **GitHub Analytics & Activity**
+
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ketansuhaas&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketansuhaas&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+
