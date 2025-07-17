@@ -1,5 +1,7 @@
 # 👋 Hey there! I'm Ketan Suhaas Saichandran
 
+For latest information go to my [![Website](https://img.shields.io/badge/Website-ketansuhaas.github.io-blue)](https://ketansuhaas.github.io/webpage/)
+
 🎓 **AI Researcher & Engineer**
 
 Hi! I'm Ketan, and I'm passionate about pushing the boundaries of AI! 🚀 I recently earned my Master's in Artificial Intelligence from Boston University 🐻, where I was advised by Dr. Vijaya Kolachalama. Before that, I completed my Bachelor's in Electrical Engineering at the Indian Institute of Technology (IIT) Roorkee 🇮🇳.
