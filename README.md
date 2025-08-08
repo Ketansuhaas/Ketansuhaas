@@ -13,15 +13,5 @@ For latest information go to my [![Website](https://img.shields.io/badge/Website
 </div>
 
 
-## 📊 **GitHub Analytics & Activity**
-
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ketansuhaas&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketansuhaas&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 
