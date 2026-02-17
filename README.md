@@ -1,7 +1,5 @@
 # 👋 Hey there! I'm Ketan Suhaas Saichandran
 
-For latest information go to my [![Website](https://img.shields.io/badge/Website-ketansuhaas.github.io-blue)](https://ketansuhaas.github.io/webpage/)
-
 ## 🌐 **Let's Connect!**
 <div align="center">
 
