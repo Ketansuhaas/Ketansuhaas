@@ -1,4 +1,4 @@
-# Hi, I'm Ketan Suhaas Saichandran 👋
+# Hi, I'm Ketan 👋
 
 DPhil student at the Oxford Protein Informatics Group (OPIG), University of Oxford, working on ML for structure-based drug discovery. Previously founding AI research scientist at dCortex.
 
